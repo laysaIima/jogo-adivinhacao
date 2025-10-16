@@ -20,20 +20,7 @@ Um jogo simples onde você tenta adivinhar um número aleatório entre 1 e 100.
 
 Basta abrir o arquivo `index.html` no navegador!
 
-## 👨‍💻 Autor
+## 👨‍💻 Laysa Lima
 
 Desenvolvido como atividade do curso de Front End.
 ```
-
-4. **Salve o arquivo**: `Ctrl + S` (Windows/Linux) ou `Cmd + S` (Mac)
-
----
-
-## **Como Deve Ficar Sua Pasta:**
-
-No VS Code, você verá algo assim na sidebar:
-```
-📁 EXPLORER
-  📄 index.html
-  📄 style.css
-  📄 README.md
